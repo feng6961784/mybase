@@ -1,4 +1,0 @@
-mybase
-======
-
-test begin zero
